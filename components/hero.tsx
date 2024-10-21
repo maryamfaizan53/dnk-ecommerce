@@ -4,7 +4,7 @@ const Banner = () => {
   return (
     <div className="absolute flex items-center justify-start h-screen w-full text-white z-100">
       {/* Gradient Overlay */}
-      <div className="absolute inset-0  bg-gradient-to-r from-blue/10 to-transpernt z-10"></div>
+      <div className="absolute inset-0  bg-gradient-to-lr from-blue/10 to-transpernt z-10"></div>
       
       {/* Text Container */}
       <div className="absolute left-12 z-20">

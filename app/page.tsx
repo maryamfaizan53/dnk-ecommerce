@@ -219,13 +219,13 @@ const Home = () => {
     <div>
       <Nav/>
       <Hero/>
-      <Clientlogos/>
+       <Clientlogos/>
       <Products/>
       <FeaturedProducts/>
       <LimitedOffers/>
       <Offers/>
       <SaleAnnouncement/>
-      <Footer/>
+      <Footer/> 
 
 
     </div>
